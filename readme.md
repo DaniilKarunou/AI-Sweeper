@@ -1,5 +1,7 @@
 # PySaper: AI-Powered Minesweeper
 ![Game Interface Screenshot](static/game_screenshot.jpg)
+
+
 PySaper is a Minesweeper game developed in Pygame, featuring advanced AI techniques for decision-making, bomb detection, optimal bomb picking, and pathfinding. This project combines classic gameplay with cutting-edge AI functionalities to enhance the player experience.
 
 ## Features
