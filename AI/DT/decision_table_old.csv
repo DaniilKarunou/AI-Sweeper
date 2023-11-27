@@ -1,0 +1,641 @@
+﻿type_of_bomb,time,explosion_radius,place_ground,visibility,old_or_not,backpack,action
+Mine,a lot of time,none,grass,50-60,0,0,detonete
+Mine,a lot of time,none,grass,50-60,1,0,detonete
+Mine,a lot of time,none,grass,60-70,0,0,detonete
+Mine,a lot of time,none,grass,60-70,1,0,detonete
+Mine,a lot of time,none,grass,70-80,0,0,take
+Mine,a lot of time,none,grass,70-80,1,0,take
+Mine,a lot of time,none,grass,80-90,0,0,take
+Mine,a lot of time,none,grass,80-90,1,0,take
+Mine,a lot of time,none,grass,90-100,0,0,take
+Mine,a lot of time,none,grass,90-100,1,0,take
+Mine,a lot of time,none,grass,50-60,0,1,detonete
+Mine,a lot of time,none,grass,50-60,1,1,detonete
+Mine,a lot of time,none,grass,60-70,0,1,detonete
+Mine,a lot of time,none,grass,60-70,1,1,detonete
+Mine,a lot of time,none,grass,70-80,0,1,take
+Mine,a lot of time,none,grass,70-80,1,1,take
+Mine,a lot of time,none,grass,80-90,0,1,take
+Mine,a lot of time,none,grass,80-90,1,1,take
+Mine,a lot of time,none,grass,90-100,0,1,take
+Mine,a lot of time,none,grass,90-100,1,1,take
+Mine,a lot of time,none,grass,50-60,0,2,detonete
+Mine,a lot of time,none,grass,50-60,1,2,detonete
+Mine,a lot of time,none,grass,60-70,0,2,detonete
+Mine,a lot of time,none,grass,60-70,1,2,detonete
+Mine,a lot of time,none,grass,70-80,0,2,detonete
+Mine,a lot of time,none,grass,70-80,1,2,detonete
+Mine,a lot of time,none,grass,80-90,0,2,detonete
+Mine,a lot of time,none,grass,80-90,1,2,detonete
+Mine,a lot of time,none,grass,90-100,0,2,detonete
+Mine,a lot of time,none,grass,90-100,1,2,detonete
+Mine,a lot of time,none,grass,50-60,0,3,detonete
+Mine,a lot of time,none,grass,50-60,1,3,detonete
+Mine,a lot of time,none,grass,60-70,0,3,detonete
+Mine,a lot of time,none,grass,60-70,1,3,detonete
+Mine,a lot of time,none,grass,70-80,0,3,detonete
+Mine,a lot of time,none,grass,70-80,1,3,detonete
+Mine,a lot of time,none,grass,80-90,0,3,detonete
+Mine,a lot of time,none,grass,80-90,1,3,detonete
+Mine,a lot of time,none,grass,90-100,0,3,detonete
+Mine,a lot of time,none,grass,90-100,1,3,detonete
+Grenade,a lot of time,none,grass,60-70,0,0,detonete
+Grenade,a lot of time,none,grass,60-70,1,0,detonete
+Grenade,a lot of time,none,grass,70-80,0,0,take
+Grenade,a lot of time,none,grass,70-80,1,0,take
+Grenade,a lot of time,none,grass,80-90,0,0,take
+Grenade,a lot of time,none,grass,80-90,1,0,take
+Grenade,a lot of time,none,grass,90-100,0,0,take
+Grenade,a lot of time,none,grass,90-100,1,0,take
+Grenade,a lot of time,none,grass,60-70,0,1,detonete
+Grenade,a lot of time,none,grass,60-70,1,1,detonete
+Grenade,a lot of time,none,grass,70-80,0,1,take
+Grenade,a lot of time,none,grass,70-80,1,1,take
+Grenade,a lot of time,none,grass,80-90,0,1,take
+Grenade,a lot of time,none,grass,80-90,1,1,take
+Grenade,a lot of time,none,grass,90-100,0,1,take
+Grenade,a lot of time,none,grass,90-100,1,1,take
+Grenade,a lot of time,none,grass,60-70,0,2,detonete
+Grenade,a lot of time,none,grass,60-70,1,2,detonete
+Grenade,a lot of time,none,grass,70-80,0,2,take
+Grenade,a lot of time,none,grass,70-80,1,2,take
+Grenade,a lot of time,none,grass,80-90,0,2,take
+Grenade,a lot of time,none,grass,80-90,1,2,take
+Grenade,a lot of time,none,grass,90-100,0,2,take
+Grenade,a lot of time,none,grass,90-100,1,2,take
+Grenade,a lot of time,none,grass,60-70,0,3,detonete
+Grenade,a lot of time,none,grass,60-70,1,3,detonete
+Grenade,a lot of time,none,grass,70-80,0,3,detonete
+Grenade,a lot of time,none,grass,70-80,1,3,detonete
+Grenade,a lot of time,none,grass,80-90,0,3,detonete
+Grenade,a lot of time,none,grass,80-90,1,3,detonete
+Grenade,a lot of time,none,grass,90-100,0,3,detonete
+Grenade,a lot of time,none,grass,90-100,1,3,detonete
+Grenade,a little time,none,grass,60-70,0,0,detonete
+Grenade,a little time,none,grass,60-70,1,0,detonete
+Grenade,a little time,none,grass,70-80,0,0,detonete
+Grenade,a little time,none,grass,70-80,1,0,detonete
+Grenade,a little time,none,grass,80-90,0,0,take
+Grenade,a little time,none,grass,80-90,1,0,take
+Grenade,a little time,none,grass,90-100,0,0,take
+Grenade,a little time,none,grass,90-100,1,0,take
+Grenade,a little time,none,grass,60-70,0,1,detonete
+Grenade,a little time,none,grass,60-70,1,1,detonete
+Grenade,a little time,none,grass,70-80,0,1,detonete
+Grenade,a little time,none,grass,70-80,1,1,detonete
+Grenade,a little time,none,grass,80-90,0,1,take
+Grenade,a little time,none,grass,80-90,1,1,take
+Grenade,a little time,none,grass,90-100,0,1,take
+Grenade,a little time,none,grass,90-100,1,1,take
+Grenade,a little time,none,grass,60-70,0,2,detonete
+Grenade,a little time,none,grass,60-70,1,2,detonete
+Grenade,a little time,none,grass,70-80,0,2,detonete
+Grenade,a little time,none,grass,70-80,1,2,detonete
+Grenade,a little time,none,grass,80-90,0,2,take
+Grenade,a little time,none,grass,80-90,1,2,take
+Grenade,a little time,none,grass,90-100,0,2,take
+Grenade,a little time,none,grass,90-100,1,2,take
+Grenade,a little time,none,grass,60-70,0,3,detonete
+Grenade,a little time,none,grass,60-70,1,3,detonete
+Grenade,a little time,none,grass,70-80,0,3,detonete
+Grenade,a little time,none,grass,70-80,1,3,detonete
+Grenade,a little time,none,grass,80-90,0,3,detonete
+Grenade,a little time,none,grass,80-90,1,3,detonete
+Grenade,a little time,none,grass,90-100,0,3,detonete
+Grenade,a little time,none,grass,90-100,1,3,detonete
+Grenade,a few seconds,none,grass,60-70,0,0,detonete
+Grenade,a few seconds,none,grass,60-70,1,0,detonete
+Grenade,a few seconds,none,grass,70-80,0,0,detonete
+Grenade,a few seconds,none,grass,70-80,1,0,detonete
+Grenade,a few seconds,none,grass,80-90,0,0,detonete
+Grenade,a few seconds,none,grass,80-90,1,0,detonete
+Grenade,a few seconds,none,grass,90-100,0,0,detonete
+Grenade,a few seconds,none,grass,90-100,1,0,detonete
+Grenade,a few seconds,none,grass,60-70,0,1,detonete
+Grenade,a few seconds,none,grass,60-70,1,1,detonete
+Grenade,a few seconds,none,grass,70-80,0,1,detonete
+Grenade,a few seconds,none,grass,70-80,1,1,detonete
+Grenade,a few seconds,none,grass,80-90,0,1,detonete
+Grenade,a few seconds,none,grass,80-90,1,1,detonete
+Grenade,a few seconds,none,grass,90-100,0,1,detonete
+Grenade,a few seconds,none,grass,90-100,1,1,detonete
+Grenade,a few seconds,none,grass,60-70,0,2,detonete
+Grenade,a few seconds,none,grass,60-70,1,2,detonete
+Grenade,a few seconds,none,grass,70-80,0,2,detonete
+Grenade,a few seconds,none,grass,70-80,1,2,detonete
+Grenade,a few seconds,none,grass,80-90,0,2,detonete
+Grenade,a few seconds,none,grass,80-90,1,2,detonete
+Grenade,a few seconds,none,grass,90-100,0,2,detonete
+Grenade,a few seconds,none,grass,90-100,1,2,detonete
+Grenade,a few seconds,none,grass,60-70,0,3,detonete
+Grenade,a few seconds,none,grass,60-70,1,3,detonete
+Grenade,a few seconds,none,grass,70-80,0,3,detonete
+Grenade,a few seconds,none,grass,70-80,1,3,detonete
+Grenade,a few seconds,none,grass,80-90,0,3,detonete
+Grenade,a few seconds,none,grass,80-90,1,3,detonete
+Grenade,a few seconds,none,grass,90-100,0,3,detonete
+Grenade,a few seconds,none,grass,90-100,1,3,detonete
+Grenade,a lot of time,none,rock,60-70,0,0,detonete
+Grenade,a lot of time,none,rock,60-70,1,0,detonete
+Grenade,a lot of time,none,rock,70-80,0,0,take
+Grenade,a lot of time,none,rock,70-80,1,0,take
+Grenade,a lot of time,none,rock,80-90,0,0,take
+Grenade,a lot of time,none,rock,80-90,1,0,take
+Grenade,a lot of time,none,rock,90-100,0,0,take
+Grenade,a lot of time,none,rock,90-100,1,0,take
+Grenade,a lot of time,none,rock,60-70,0,1,detonete
+Grenade,a lot of time,none,rock,60-70,1,1,detonete
+Grenade,a lot of time,none,rock,70-80,0,1,take
+Grenade,a lot of time,none,rock,70-80,1,1,take
+Grenade,a lot of time,none,rock,80-90,0,1,take
+Grenade,a lot of time,none,rock,80-90,1,1,take
+Grenade,a lot of time,none,rock,90-100,0,1,take
+Grenade,a lot of time,none,rock,90-100,1,1,take
+Grenade,a lot of time,none,rock,60-70,0,2,detonete
+Grenade,a lot of time,none,rock,60-70,1,2,detonete
+Grenade,a lot of time,none,rock,70-80,0,2,take
+Grenade,a lot of time,none,rock,70-80,1,2,take
+Grenade,a lot of time,none,rock,80-90,0,2,take
+Grenade,a lot of time,none,rock,80-90,1,2,take
+Grenade,a lot of time,none,rock,90-100,0,2,take
+Grenade,a lot of time,none,rock,90-100,1,2,take
+Grenade,a lot of time,none,rock,60-70,0,3,detonete
+Grenade,a lot of time,none,rock,60-70,1,3,detonete
+Grenade,a lot of time,none,rock,70-80,0,3,detonete
+Grenade,a lot of time,none,rock,70-80,1,3,detonete
+Grenade,a lot of time,none,rock,80-90,0,3,detonete
+Grenade,a lot of time,none,rock,80-90,1,3,detonete
+Grenade,a lot of time,none,rock,90-100,0,3,detonete
+Grenade,a lot of time,none,rock,90-100,1,3,detonete
+Grenade,a little time,none,rock,60-70,0,0,detonete
+Grenade,a little time,none,rock,60-70,1,0,detonete
+Grenade,a little time,none,rock,70-80,0,0,detonete
+Grenade,a little time,none,rock,70-80,1,0,detonete
+Grenade,a little time,none,rock,80-90,0,0,take
+Grenade,a little time,none,rock,80-90,1,0,take
+Grenade,a little time,none,rock,90-100,0,0,take
+Grenade,a little time,none,rock,90-100,1,0,take
+Grenade,a little time,none,rock,60-70,0,1,detonete
+Grenade,a little time,none,rock,60-70,1,1,detonete
+Grenade,a little time,none,rock,70-80,0,1,detonete
+Grenade,a little time,none,rock,70-80,1,1,detonete
+Grenade,a little time,none,rock,80-90,0,1,take
+Grenade,a little time,none,rock,80-90,1,1,take
+Grenade,a little time,none,rock,90-100,0,1,take
+Grenade,a little time,none,rock,90-100,1,1,take
+Grenade,a little time,none,rock,60-70,0,2,detonete
+Grenade,a little time,none,rock,60-70,1,2,detonete
+Grenade,a little time,none,rock,70-80,0,2,detonete
+Grenade,a little time,none,rock,70-80,1,2,detonete
+Grenade,a little time,none,rock,80-90,0,2,take
+Grenade,a little time,none,rock,80-90,1,2,take
+Grenade,a little time,none,rock,90-100,0,2,take
+Grenade,a little time,none,rock,90-100,1,2,take
+Grenade,a little time,none,rock,60-70,0,3,detonete
+Grenade,a little time,none,rock,60-70,1,3,detonete
+Grenade,a little time,none,rock,70-80,0,3,detonete
+Grenade,a little time,none,rock,70-80,1,3,detonete
+Grenade,a little time,none,rock,80-90,0,3,detonete
+Grenade,a little time,none,rock,80-90,1,3,detonete
+Grenade,a little time,none,rock,90-100,0,3,detonete
+Grenade,a little time,none,rock,90-100,1,3,detonete
+Grenade,a few seconds,none,rock,60-70,0,0,detonete
+Grenade,a few seconds,none,rock,60-70,1,0,detonete
+Grenade,a few seconds,none,rock,70-80,0,0,detonete
+Grenade,a few seconds,none,rock,70-80,1,0,detonete
+Grenade,a few seconds,none,rock,80-90,0,0,detonete
+Grenade,a few seconds,none,rock,80-90,1,0,detonete
+Grenade,a few seconds,none,rock,90-100,0,0,detonete
+Grenade,a few seconds,none,rock,90-100,1,0,detonete
+Grenade,a few seconds,none,rock,60-70,0,1,detonete
+Grenade,a few seconds,none,rock,60-70,1,1,detonete
+Grenade,a few seconds,none,rock,70-80,0,1,detonete
+Grenade,a few seconds,none,rock,70-80,1,1,detonete
+Grenade,a few seconds,none,rock,80-90,0,1,detonete
+Grenade,a few seconds,none,rock,80-90,1,1,detonete
+Grenade,a few seconds,none,rock,90-100,0,1,detonete
+Grenade,a few seconds,none,rock,90-100,1,1,detonete
+Grenade,a few seconds,none,rock,60-70,0,2,detonete
+Grenade,a few seconds,none,rock,60-70,1,2,detonete
+Grenade,a few seconds,none,rock,70-80,0,2,detonete
+Grenade,a few seconds,none,rock,70-80,1,2,detonete
+Grenade,a few seconds,none,rock,80-90,0,2,detonete
+Grenade,a few seconds,none,rock,80-90,1,2,detonete
+Grenade,a few seconds,none,rock,90-100,0,2,detonete
+Grenade,a few seconds,none,rock,90-100,1,2,detonete
+Grenade,a few seconds,none,rock,60-70,0,3,detonete
+Grenade,a few seconds,none,rock,60-70,1,3,detonete
+Grenade,a few seconds,none,rock,70-80,0,3,detonete
+Grenade,a few seconds,none,rock,70-80,1,3,detonete
+Grenade,a few seconds,none,rock,80-90,0,3,detonete
+Grenade,a few seconds,none,rock,80-90,1,3,detonete
+Grenade,a few seconds,none,rock,90-100,0,3,detonete
+Grenade,a few seconds,none,rock,90-100,1,3,detonete
+WaterMine,a lot of time,medium,water,40-50,0,0,detonete
+WaterMine,a lot of time,medium,water,40-50,1,0,detonete
+WaterMine,a lot of time,medium,water,50-60,0,0,detonete
+WaterMine,a lot of time,medium,water,50-60,1,0,detonete
+WaterMine,a lot of time,medium,water,60-70,0,0,detonete
+WaterMine,a lot of time,medium,water,60-70,1,0,detonete
+WaterMine,a lot of time,medium,water,70-80,0,0,detonete
+WaterMine,a lot of time,medium,water,70-80,1,0,detonete
+WaterMine,a lot of time,medium,water,80-90,0,0,detonete
+WaterMine,a lot of time,medium,water,80-90,1,0,detonete
+WaterMine,a lot of time,medium,water,90-100,0,0,detonete
+WaterMine,a lot of time,medium,water,90-100,1,0,detonete
+WaterMine,a lot of time,medium,water,40-50,0,1,detonete
+WaterMine,a lot of time,medium,water,40-50,1,1,detonete
+WaterMine,a lot of time,medium,water,50-60,0,1,detonete
+WaterMine,a lot of time,medium,water,50-60,1,1,detonete
+WaterMine,a lot of time,medium,water,60-70,0,1,detonete
+WaterMine,a lot of time,medium,water,60-70,1,1,detonete
+WaterMine,a lot of time,medium,water,70-80,0,1,detonete
+WaterMine,a lot of time,medium,water,70-80,1,1,detonete
+WaterMine,a lot of time,medium,water,80-90,0,1,detonete
+WaterMine,a lot of time,medium,water,80-90,1,1,detonete
+WaterMine,a lot of time,medium,water,90-100,0,1,detonete
+WaterMine,a lot of time,medium,water,90-100,1,1,detonete
+WaterMine,a lot of time,medium,water,40-50,0,2,detonete
+WaterMine,a lot of time,medium,water,40-50,1,2,detonete
+WaterMine,a lot of time,medium,water,50-60,0,2,detonete
+WaterMine,a lot of time,medium,water,50-60,1,2,detonete
+WaterMine,a lot of time,medium,water,60-70,0,2,detonete
+WaterMine,a lot of time,medium,water,60-70,1,2,detonete
+WaterMine,a lot of time,medium,water,70-80,0,2,detonete
+WaterMine,a lot of time,medium,water,70-80,1,2,detonete
+WaterMine,a lot of time,medium,water,80-90,0,2,detonete
+WaterMine,a lot of time,medium,water,80-90,1,2,detonete
+WaterMine,a lot of time,medium,water,90-100,0,2,detonete
+WaterMine,a lot of time,medium,water,90-100,1,2,detonete
+WaterMine,a lot of time,medium,water,40-50,0,3,detonete
+WaterMine,a lot of time,medium,water,40-50,1,3,detonete
+WaterMine,a lot of time,medium,water,50-60,0,3,detonete
+WaterMine,a lot of time,medium,water,50-60,1,3,detonete
+WaterMine,a lot of time,medium,water,60-70,0,3,detonete
+WaterMine,a lot of time,medium,water,60-70,1,3,detonete
+WaterMine,a lot of time,medium,water,70-80,0,3,detonete
+WaterMine,a lot of time,medium,water,70-80,1,3,detonete
+WaterMine,a lot of time,medium,water,80-90,0,3,detonete
+WaterMine,a lot of time,medium,water,80-90,1,3,detonete
+WaterMine,a lot of time,medium,water,90-100,0,3,detonete
+WaterMine,a lot of time,medium,water,90-100,1,3,detonete
+AirBomb,a lot of time,medium,grass,90-100,0,0,take
+AirBomb,a lot of time,medium,grass,90-100,1,0,take
+AirBomb,a lot of time,medium,grass,90-100,0,1,take
+AirBomb,a lot of time,medium,grass,90-100,1,1,take
+AirBomb,a lot of time,medium,grass,90-100,0,2,detonete
+AirBomb,a lot of time,medium,grass,90-100,1,2,detonete
+AirBomb,a lot of time,medium,grass,90-100,0,3,detonete
+AirBomb,a lot of time,medium,grass,90-100,1,3,detonete
+AirBomb,a little time,medium,grass,90-100,0,0,detonete
+AirBomb,a little time,medium,grass,90-100,1,0,detonete
+AirBomb,a little time,medium,grass,90-100,0,1,detonete
+AirBomb,a little time,medium,grass,90-100,1,1,detonete
+AirBomb,a little time,medium,grass,90-100,0,2,detonete
+AirBomb,a little time,medium,grass,90-100,1,2,detonete
+AirBomb,a little time,medium,grass,90-100,0,3,detonete
+AirBomb,a little time,medium,grass,90-100,1,3,detonete
+AirBomb,a few seconds,medium,grass,90-100,0,0,detonete
+AirBomb,a few seconds,medium,grass,90-100,1,0,detonete
+AirBomb,a few seconds,medium,grass,90-100,0,1,detonete
+AirBomb,a few seconds,medium,grass,90-100,1,1,detonete
+AirBomb,a few seconds,medium,grass,90-100,0,2,detonete
+AirBomb,a few seconds,medium,grass,90-100,1,2,detonete
+AirBomb,a few seconds,medium,grass,90-100,1,3,detonete
+AirBomb,a few seconds,medium,grass,90-100,0,3,detonete
+C4,a lot of time,none,grass,70-80,0,2,detonete
+C4,a lot of time,none,grass,70-80,1,2,detonete
+C4,a lot of time,none,grass,80-90,0,2,detonete
+C4,a lot of time,none,grass,80-90,1,2,detonete
+C4,a lot of time,none,grass,90-100,0,2,detonete
+C4,a lot of time,none,grass,90-100,1,2,detonete
+C4,a lot of time,none,grass,70-80,0,3,detonete
+C4,a lot of time,none,grass,70-80,1,3,detonete
+C4,a lot of time,none,grass,80-90,0,3,detonete
+C4,a lot of time,none,grass,80-90,1,3,detonete
+C4,a lot of time,none,grass,90-100,0,3,detonete
+C4,a lot of time,none,grass,90-100,1,3,detonete
+C4,a lot of time,none,grass,70-80,0,0,take
+C4,a lot of time,none,grass,70-80,1,0,take
+C4,a lot of time,none,grass,80-90,0,0,take
+C4,a lot of time,none,grass,80-90,1,0,take
+C4,a lot of time,none,grass,90-100,0,0,take
+C4,a lot of time,none,grass,90-100,1,0,take
+C4,a lot of time,none,grass,70-80,0,1,take
+C4,a lot of time,none,grass,70-80,1,1,take
+C4,a lot of time,none,grass,80-90,0,1,take
+C4,a lot of time,none,grass,80-90,1,1,take
+C4,a lot of time,none,grass,90-100,0,1,take
+C4,a lot of time,none,grass,90-100,1,1,take
+C4,a little time,none,grass,70-80,0,0,detonete
+C4,a little time,none,grass,70-80,1,0,detonete
+C4,a little time,none,grass,80-90,0,0,detonete
+C4,a little time,none,grass,80-90,1,0,detonete
+C4,a little time,none,grass,90-100,0,0,detonete
+C4,a little time,none,grass,90-100,1,0,detonete
+C4,a little time,none,grass,70-80,0,1,detonete
+C4,a little time,none,grass,70-80,1,1,detonete
+C4,a little time,none,grass,80-90,0,1,detonete
+C4,a little time,none,grass,80-90,1,1,detonete
+C4,a little time,none,grass,90-100,0,1,detonete
+C4,a little time,none,grass,90-100,1,1,detonete
+C4,a little time,none,grass,70-80,0,2,detonete
+C4,a little time,none,grass,70-80,1,2,detonete
+C4,a little time,none,grass,80-90,0,2,detonete
+C4,a little time,none,grass,80-90,1,2,detonete
+C4,a little time,none,grass,90-100,0,2,detonete
+C4,a little time,none,grass,90-100,1,2,detonete
+C4,a little time,none,grass,70-80,0,3,detonete
+C4,a little time,none,grass,70-80,1,3,detonete
+C4,a little time,none,grass,80-90,0,3,detonete
+C4,a little time,none,grass,80-90,1,3,detonete
+C4,a little time,none,grass,90-100,0,3,detonete
+C4,a little time,none,grass,90-100,1,3,detonete
+C4,a few seconds,none,grass,70-80,0,0,detonete
+C4,a few seconds,none,grass,70-80,1,0,detonete
+C4,a few seconds,none,grass,80-90,0,0,detonete
+C4,a few seconds,none,grass,80-90,1,0,detonete
+C4,a few seconds,none,grass,90-100,0,0,detonete
+C4,a few seconds,none,grass,90-100,1,0,detonete
+C4,a few seconds,none,grass,70-80,0,1,detonete
+C4,a few seconds,none,grass,70-80,1,1,detonete
+C4,a few seconds,none,grass,80-90,0,1,detonete
+C4,a few seconds,none,grass,80-90,1,1,detonete
+C4,a few seconds,none,grass,90-100,0,1,detonete
+C4,a few seconds,none,grass,90-100,1,1,detonete
+C4,a few seconds,none,grass,70-80,0,2,detonete
+C4,a few seconds,none,grass,70-80,1,2,detonete
+C4,a few seconds,none,grass,80-90,0,2,detonete
+C4,a few seconds,none,grass,80-90,1,2,detonete
+C4,a few seconds,none,grass,90-100,0,2,detonete
+C4,a few seconds,none,grass,90-100,1,2,detonete
+C4,a few seconds,none,grass,70-80,0,3,detonete
+C4,a few seconds,none,grass,70-80,1,3,detonete
+C4,a few seconds,none,grass,80-90,0,3,detonete
+C4,a few seconds,none,grass,80-90,1,3,detonete
+C4,a few seconds,none,grass,90-100,0,3,detonete
+C4,a few seconds,none,grass,90-100,1,3,detonete
+FakeBomb,a lot of time,none,grass,80-90,0,2,take
+FakeBomb,a lot of time,none,grass,80-90,1,2,take
+FakeBomb,a lot of time,none,grass,90-100,0,2,take
+FakeBomb,a lot of time,none,grass,90-100,1,2,take
+FakeBomb,a lot of time,none,grass,70-80,0,2,take
+FakeBomb,a lot of time,none,grass,70-80,1,2,take
+FakeBomb,a lot of time,none,grass,60-70,0,2,detonete
+FakeBomb,a lot of time,none,grass,60-70,1,2,detonete
+FakeBomb,a lot of time,none,grass,70-80,0,3,detonete
+FakeBomb,a lot of time,none,grass,70-80,1,3,detonete
+FakeBomb,a lot of time,none,grass,80-90,0,3,detonete
+FakeBomb,a lot of time,none,grass,80-90,1,3,detonete
+FakeBomb,a lot of time,none,grass,90-100,0,3,detonete
+FakeBomb,a lot of time,none,grass,90-100,1,3,detonete
+FakeBomb,a lot of time,none,grass,60-70,0,3,detonete
+FakeBomb,a lot of time,none,grass,60-70,1,3,detonete
+FakeBomb,a lot of time,none,grass,80-90,0,1,take
+FakeBomb,a lot of time,none,grass,80-90,1,1,take
+FakeBomb,a lot of time,none,grass,90-100,0,1,take
+FakeBomb,a lot of time,none,grass,90-100,1,1,take
+FakeBomb,a lot of time,none,grass,70-80,0,1,take
+FakeBomb,a lot of time,none,grass,70-80,1,1,take
+FakeBomb,a lot of time,none,grass,60-70,0,1,take
+FakeBomb,a lot of time,none,grass,60-70,1,1,take
+FakeBomb,a lot of time,none,grass,80-90,0,0,take
+FakeBomb,a lot of time,none,grass,80-90,1,0,take
+FakeBomb,a lot of time,none,grass,90-100,0,0,take
+FakeBomb,a lot of time,none,grass,90-100,1,0,take
+FakeBomb,a lot of time,none,grass,70-80,0,0,take
+FakeBomb,a lot of time,none,grass,70-80,1,0,take
+FakeBomb,a lot of time,none,grass,60-70,0,0,take
+FakeBomb,a lot of time,none,grass,60-70,1,0,take
+FakeBomb,a little time,none,grass,80-90,0,2,take
+FakeBomb,a little time,none,grass,80-90,1,2,take
+FakeBomb,a little time,none,grass,90-100,0,2,take
+FakeBomb,a little time,none,grass,90-100,1,2,take
+FakeBomb,a little time,none,grass,70-80,0,2,take
+FakeBomb,a little time,none,grass,70-80,1,2,take
+FakeBomb,a little time,none,grass,60-70,0,2,detonete
+FakeBomb,a little time,none,grass,60-70,1,2,detonete
+FakeBomb,a little time,none,grass,70-80,0,3,detonete
+FakeBomb,a little time,none,grass,70-80,1,3,detonete
+FakeBomb,a little time,none,grass,80-90,0,3,detonete
+FakeBomb,a little time,none,grass,80-90,1,3,detonete
+FakeBomb,a little time,none,grass,90-100,0,3,detonete
+FakeBomb,a little time,none,grass,90-100,1,3,detonete
+FakeBomb,a little time,none,grass,60-70,0,3,detonete
+FakeBomb,a little time,none,grass,60-70,1,3,detonete
+FakeBomb,a little time,none,grass,80-90,0,1,take
+FakeBomb,a little time,none,grass,80-90,1,1,take
+FakeBomb,a little time,none,grass,90-100,0,1,take
+FakeBomb,a little time,none,grass,90-100,1,1,take
+FakeBomb,a little time,none,grass,70-80,0,1,take
+FakeBomb,a little time,none,grass,70-80,1,1,take
+FakeBomb,a little time,none,grass,60-70,0,1,take
+FakeBomb,a little time,none,grass,60-70,1,1,take
+FakeBomb,a little time,none,grass,80-90,0,0,take
+FakeBomb,a little time,none,grass,80-90,1,0,take
+FakeBomb,a little time,none,grass,90-100,0,0,take
+FakeBomb,a little time,none,grass,90-100,1,0,take
+FakeBomb,a little time,none,grass,70-80,0,0,take
+FakeBomb,a little time,none,grass,70-80,1,0,take
+FakeBomb,a little time,none,grass,60-70,0,0,take
+FakeBomb,a little time,none,grass,60-70,1,0,take
+FakeBomb,a few seconds,none,grass,80-90,0,2,take
+FakeBomb,a few seconds,none,grass,80-90,1,2,take
+FakeBomb,a few seconds,none,grass,90-100,0,2,take
+FakeBomb,a few seconds,none,grass,90-100,1,2,take
+FakeBomb,a few seconds,none,grass,70-80,0,2,take
+FakeBomb,a few seconds,none,grass,70-80,1,2,take
+FakeBomb,a few seconds,none,grass,60-70,0,2,detonete
+FakeBomb,a few seconds,none,grass,60-70,1,2,detonete
+FakeBomb,a few seconds,none,grass,70-80,0,3,detonete
+FakeBomb,a few seconds,none,grass,70-80,1,3,detonete
+FakeBomb,a few seconds,none,grass,80-90,0,3,detonete
+FakeBomb,a few seconds,none,grass,80-90,1,3,detonete
+FakeBomb,a few seconds,none,grass,90-100,0,3,detonete
+FakeBomb,a few seconds,none,grass,90-100,1,3,detonete
+FakeBomb,a few seconds,none,grass,60-70,0,3,detonete
+FakeBomb,a few seconds,none,grass,60-70,1,3,detonete
+FakeBomb,a few seconds,none,grass,80-90,0,1,take
+FakeBomb,a few seconds,none,grass,80-90,1,1,take
+FakeBomb,a few seconds,none,grass,90-100,0,1,take
+FakeBomb,a few seconds,none,grass,90-100,1,1,take
+FakeBomb,a few seconds,none,grass,70-80,0,1,take
+FakeBomb,a few seconds,none,grass,70-80,1,1,take
+FakeBomb,a few seconds,none,grass,60-70,0,1,take
+FakeBomb,a few seconds,none,grass,60-70,1,1,take
+FakeBomb,a few seconds,none,grass,80-90,0,0,take
+FakeBomb,a few seconds,none,grass,80-90,1,0,take
+FakeBomb,a few seconds,none,grass,90-100,0,0,take
+FakeBomb,a few seconds,none,grass,90-100,1,0,take
+FakeBomb,a few seconds,none,grass,70-80,0,0,take
+FakeBomb,a few seconds,none,grass,70-80,1,0,take
+FakeBomb,a few seconds,none,grass,60-70,0,0,take
+FakeBomb,a few seconds,none,grass,60-70,1,0,take
+HandBomb,a little time,none,grass,70-80,0,0,detonete
+HandBomb,a little time,none,grass,70-80,1,0,detonete
+HandBomb,a little time,none,grass,80-90,0,0,detonete
+HandBomb,a little time,none,grass,80-90,1,0,detonete
+HandBomb,a little time,none,grass,90-100,0,0,detonete
+HandBomb,a little time,none,grass,90-100,1,0,detonete
+HandBomb,a little time,none,grass,70-80,0,1,detonete
+HandBomb,a little time,none,grass,70-80,1,1,detonete
+HandBomb,a little time,none,grass,80-90,0,1,detonete
+HandBomb,a little time,none,grass,80-90,1,1,detonete
+HandBomb,a little time,none,grass,90-100,0,1,detonete
+HandBomb,a little time,none,grass,90-100,1,1,detonete
+HandBomb,a little time,none,grass,70-80,0,2,detonete
+HandBomb,a little time,none,grass,70-80,1,2,detonete
+HandBomb,a little time,none,grass,80-90,0,2,detonete
+HandBomb,a little time,none,grass,80-90,1,2,detonete
+HandBomb,a little time,none,grass,90-100,0,2,detonete
+HandBomb,a little time,none,grass,90-100,1,2,detonete
+HandBomb,a little time,none,grass,70-80,0,3,detonete
+HandBomb,a little time,none,grass,70-80,1,3,detonete
+HandBomb,a little time,none,grass,80-90,0,3,detonete
+HandBomb,a little time,none,grass,80-90,1,3,detonete
+HandBomb,a little time,none,grass,90-100,0,3,detonete
+HandBomb,a little time,none,grass,90-100,1,3,detonete
+HandBomb,a few seconds,none,grass,70-80,0,0,detonete
+HandBomb,a few seconds,none,grass,70-80,1,0,detonete
+HandBomb,a few seconds,none,grass,80-90,0,0,detonete
+HandBomb,a few seconds,none,grass,80-90,1,0,detonete
+HandBomb,a few seconds,none,grass,90-100,0,0,detonete
+HandBomb,a few seconds,none,grass,90-100,1,0,detonete
+HandBomb,a few seconds,none,grass,70-80,0,1,detonete
+HandBomb,a few seconds,none,grass,70-80,1,1,detonete
+HandBomb,a few seconds,none,grass,80-90,0,1,detonete
+HandBomb,a few seconds,none,grass,80-90,1,1,detonete
+HandBomb,a few seconds,none,grass,90-100,0,1,detonete
+HandBomb,a few seconds,none,grass,90-100,1,1,detonete
+HandBomb,a few seconds,none,grass,70-80,0,2,detonete
+HandBomb,a few seconds,none,grass,70-80,1,2,detonete
+HandBomb,a few seconds,none,grass,80-90,0,2,detonete
+HandBomb,a few seconds,none,grass,80-90,1,2,detonete
+HandBomb,a few seconds,none,grass,90-100,0,2,detonete
+HandBomb,a few seconds,none,grass,90-100,1,2,detonete
+HandBomb,a few seconds,none,grass,70-80,0,3,detonete
+HandBomb,a few seconds,none,grass,70-80,1,3,detonete
+HandBomb,a few seconds,none,grass,80-90,0,3,detonete
+HandBomb,a few seconds,none,grass,80-90,1,3,detonete
+HandBomb,a few seconds,none,grass,90-100,0,3,detonete
+HandBomb,a few seconds,none,grass,90-100,1,3,detonete
+Molotov,a little time,none,grass,70-80,0,0,detonete
+Molotov,a little time,none,grass,70-80,1,0,detonete
+Molotov,a little time,none,grass,80-90,0,0,detonete
+Molotov,a little time,none,grass,80-90,1,0,detonete
+Molotov,a little time,none,grass,90-100,0,0,detonete
+Molotov,a little time,none,grass,90-100,1,0,detonete
+Molotov,a little time,none,grass,70-80,0,1,detonete
+Molotov,a little time,none,grass,70-80,1,1,detonete
+Molotov,a little time,none,grass,80-90,0,1,detonete
+Molotov,a little time,none,grass,80-90,1,1,detonete
+Molotov,a little time,none,grass,90-100,0,1,detonete
+Molotov,a little time,none,grass,90-100,1,1,detonete
+Molotov,a little time,none,grass,70-80,0,2,detonete
+Molotov,a little time,none,grass,70-80,1,2,detonete
+Molotov,a little time,none,grass,80-90,0,2,detonete
+Molotov,a little time,none,grass,80-90,1,2,detonete
+Molotov,a little time,none,grass,90-100,0,2,detonete
+Molotov,a little time,none,grass,90-100,1,2,detonete
+Molotov,a little time,none,grass,70-80,0,3,detonete
+Molotov,a little time,none,grass,70-80,1,3,detonete
+Molotov,a little time,none,grass,80-90,0,3,detonete
+Molotov,a little time,none,grass,80-90,1,3,detonete
+Molotov,a little time,none,grass,90-100,0,3,detonete
+Molotov,a little time,none,grass,90-100,1,3,detonete
+Molotov,a few seconds,none,grass,70-80,0,0,detonete
+Molotov,a few seconds,none,grass,70-80,1,0,detonete
+Molotov,a few seconds,none,grass,80-90,0,0,detonete
+Molotov,a few seconds,none,grass,80-90,1,0,detonete
+Molotov,a few seconds,none,grass,90-100,0,0,detonete
+Molotov,a few seconds,none,grass,90-100,1,0,detonete
+Molotov,a few seconds,none,grass,70-80,0,1,detonete
+Molotov,a few seconds,none,grass,70-80,1,1,detonete
+Molotov,a few seconds,none,grass,80-90,0,1,detonete
+Molotov,a few seconds,none,grass,80-90,1,1,detonete
+Molotov,a few seconds,none,grass,90-100,0,1,detonete
+Molotov,a few seconds,none,grass,90-100,1,1,detonete
+Molotov,a few seconds,none,grass,70-80,0,2,detonete
+Molotov,a few seconds,none,grass,70-80,1,2,detonete
+Molotov,a few seconds,none,grass,80-90,0,2,detonete
+Molotov,a few seconds,none,grass,80-90,1,2,detonete
+Molotov,a few seconds,none,grass,90-100,0,2,detonete
+Molotov,a few seconds,none,grass,90-100,1,2,detonete
+Molotov,a few seconds,none,grass,70-80,0,3,detonete
+Molotov,a few seconds,none,grass,70-80,1,3,detonete
+Molotov,a few seconds,none,grass,80-90,0,3,detonete
+Molotov,a few seconds,none,grass,80-90,1,3,detonete
+Molotov,a few seconds,none,grass,90-100,0,3,detonete
+Molotov,a few seconds,none,grass,90-100,1,3,detonete
+NukeBomb,a lot of time,huge,grass,90-100,0,0,detonete
+NukeBomb,a lot of time,huge,grass,90-100,1,0,detonete
+NukeBomb,a lot of time,huge,grass,90-100,0,1,detonete
+NukeBomb,a lot of time,huge,grass,90-100,1,1,detonete
+NukeBomb,a lot of time,huge,grass,90-100,0,2,detonete
+NukeBomb,a lot of time,huge,grass,90-100,1,2,detonete
+NukeBomb,a lot of time,huge,grass,90-100,0,3,detonete
+NukeBomb,a lot of time,huge,grass,90-100,1,3,detonete
+NukeBomb,a little time,huge,grass,90-100,0,0,detonete
+NukeBomb,a little time,huge,grass,90-100,1,0,detonete
+NukeBomb,a little time,huge,grass,90-100,0,1,detonete
+NukeBomb,a little time,huge,grass,90-100,1,1,detonete
+NukeBomb,a little time,huge,grass,90-100,0,2,detonete
+NukeBomb,a little time,huge,grass,90-100,1,2,detonete
+NukeBomb,a little time,huge,grass,90-100,0,3,detonete
+NukeBomb,a little time,huge,grass,90-100,1,3,detonete
+NukeBomb,a few seconds,huge,grass,90-100,1,3,detonete
+NukeBomb,a few seconds,huge,grass,90-100,0,0,detonete
+NukeBomb,a few seconds,huge,grass,90-100,1,0,detonete
+NukeBomb,a few seconds,huge,grass,90-100,0,1,detonete
+NukeBomb,a few seconds,huge,grass,90-100,1,1,detonete
+NukeBomb,a few seconds,huge,grass,90-100,0,2,detonete
+NukeBomb,a few seconds,huge,grass,90-100,1,2,detonete
+NukeBomb,a few seconds,huge,grass,90-100,0,3,detonete
+TNT,a lot of time,none,grass,70-80,0,0,take
+TNT,a lot of time,none,grass,70-80,1,0,take
+TNT,a lot of time,none,grass,80-90,0,0,take
+TNT,a lot of time,none,grass,80-90,1,0,take
+TNT,a lot of time,none,grass,90-100,0,0,take
+TNT,a lot of time,none,grass,90-100,1,0,take
+TNT,a lot of time,none,grass,70-80,0,1,detonete
+TNT,a lot of time,none,grass,70-80,1,1,detonete
+TNT,a lot of time,none,grass,80-90,0,1,detonete
+TNT,a lot of time,none,grass,80-90,1,1,detonete
+TNT,a lot of time,none,grass,90-100,0,1,detonete
+TNT,a lot of time,none,grass,90-100,1,1,detonete
+TNT,a lot of time,none,grass,70-80,0,2,detonete
+TNT,a lot of time,none,grass,70-80,1,2,detonete
+TNT,a lot of time,none,grass,80-90,0,2,detonete
+TNT,a lot of time,none,grass,80-90,1,2,detonete
+TNT,a lot of time,none,grass,90-100,0,2,detonete
+TNT,a lot of time,none,grass,90-100,1,2,detonete
+TNT,a lot of time,none,grass,70-80,0,3,detonete
+TNT,a lot of time,none,grass,70-80,1,3,detonete
+TNT,a lot of time,none,grass,80-90,0,3,detonete
+TNT,a lot of time,none,grass,80-90,1,3,detonete
+TNT,a lot of time,none,grass,90-100,0,3,detonete
+TNT,a lot of time,none,grass,90-100,1,3,detonete
+TNT,a few seconds,none,grass,70-80,0,0,detonete
+TNT,a few seconds,none,grass,70-80,1,0,detonete
+TNT,a few seconds,none,grass,80-90,0,0,detonete
+TNT,a few seconds,none,grass,80-90,1,0,detonete
+TNT,a few seconds,none,grass,90-100,0,0,detonete
+TNT,a few seconds,none,grass,90-100,1,0,detonete
+TNT,a few seconds,none,grass,70-80,0,1,detonete
+TNT,a few seconds,none,grass,70-80,1,1,detonete
+TNT,a few seconds,none,grass,80-90,0,1,detonete
+TNT,a few seconds,none,grass,80-90,1,1,detonete
+TNT,a few seconds,none,grass,90-100,0,1,detonete
+TNT,a few seconds,none,grass,90-100,1,1,detonete
+TNT,a few seconds,none,grass,70-80,0,2,detonete
+TNT,a few seconds,none,grass,70-80,1,2,detonete
+TNT,a few seconds,none,grass,80-90,0,2,detonete
+TNT,a few seconds,none,grass,80-90,1,2,detonete
+TNT,a few seconds,none,grass,90-100,0,2,detonete
+TNT,a few seconds,none,grass,90-100,1,2,detonete
+TNT,a few seconds,none,grass,70-80,0,3,detonete
+TNT,a few seconds,none,grass,70-80,1,3,detonete
+TNT,a few seconds,none,grass,80-90,0,3,detonete
+TNT,a few seconds,none,grass,80-90,1,3,detonete
+TNT,a few seconds,none,grass,90-100,0,3,detonete
+TNT,a few seconds,none,grass,90-100,1,3,detonete
